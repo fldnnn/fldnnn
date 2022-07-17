@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fulden Onan.</h1>
-- 🌱 I’m currently learning **iOS app development with Swift and data science with Python.**
+- 🌱 I’m currently learning **iOS app development with Swift.**
 
 
 <p align="left">
